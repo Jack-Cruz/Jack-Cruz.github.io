@@ -1,5 +1,3 @@
-# Jack Portafolio #
-
 Welcome to this page!, here I will show projects I've developed they are mainly developed in a group of people.
 
 [Proyecto covid-19 - curso machine learning](https://github.com/Jack-Cruz/Proyecto_covid_machine_learning/blob/main/TF_CHAVEZ_RAMIRO.ipynb)
